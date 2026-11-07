@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 2nd-year BS Information Systems student with a strong passion for building real-world tech solutions. I aspire to become a Software Engineer, focusing on creating scalable, efficient, and user-centered applications. Currently expanding my skills in software development, full-stack technologies, and system design, with a goal to grow into engineering roles beyond the web, including mobile and desktop applications. I enjoy solving complex problems, learning new languages and frameworks, and continuously improving through hands-on projects. Driven by curiosity, persistence, and a vision to contribute to impactful software innovations.
+I’m a 3rd-year BS Information Systems student with a strong passion for building real-world tech solutions. I aspire to become a Software Engineer, focusing on creating scalable, efficient, and user-centered applications. Currently expanding my skills in software development, full-stack technologies, and system design, with a goal to grow into engineering roles beyond the web, including mobile and desktop applications. I enjoy solving complex problems, learning new languages and frameworks, and continuously improving through hands-on projects. Driven by curiosity, persistence, and a vision to contribute to impactful software innovations.
 
 
 
